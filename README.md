@@ -6,13 +6,13 @@ Please use the Node 14.17.6 to run this project
 
 ## Clone this project to repo
 
-`git clone https://github.com/mini-netflix`
+`git clone [https://github.com/mini-netflix](https://github.com/novasingh24/mini-netflix)`
 
 After clone enter the project folder with 
 
 `cd mini-netflix`
 
-Run the `npm start` command to install the dependencies
+Run the `npm install` command to install the dependencies
 
 After finish the dependencies then run `npm start` to run the project
 
