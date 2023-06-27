@@ -6,7 +6,7 @@ Please use the Node 14.17.6 to run this project
 
 ## Clone this project to repo
 
-`git clone [https://github.com/mini-netflix](https://github.com/novasingh24/mini-netflix)`
+`git clone https://github.com/novasingh24/mini-netflix`
 
 After clone enter the project folder with 
 
